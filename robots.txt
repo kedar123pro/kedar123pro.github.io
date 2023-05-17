@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kedar123pro.github.io/kedar123pro/sitemap.xml
+Sitemap: https://kedar123pro.github.io/kedar123pro//sitemap.xml
