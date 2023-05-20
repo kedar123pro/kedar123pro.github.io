@@ -6,9 +6,7 @@ title: Kedar Potdar # the website title (if blank, full name will be used instea
 first_name: Kedar   
 middle_name: 
 last_name: Potdar
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Kedar Potdar, NVIDIA
-
+description: Kedar Potdar
 keywords: kedar potdar, kedar, potdar, nvidia  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
