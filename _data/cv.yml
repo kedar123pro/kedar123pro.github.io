@@ -20,17 +20,23 @@
 - title: Experience
   type: time_table
   contents:
-   - title: Manager, System Software - AI & Robotics
+    
+    - title: Manager, System Software - AI & Robotics
       institution: NVIDIA Corporation
       year: 2023 - present
-        
+      description:
+  
+  
     - title: Sr. System Software Engineer
       institution: NVIDIA Corporation
       year: 2021 - 2023
-
+      description:
+  
     - title: System Software Engineer
       institution: NVIDIA Corporation
-      year: 2020-2021        
+      year: 2020-2021
+      description:
+        
 
     - title: Graduate Research Assistant
       institution: NYU Center for Urban Science + Progress
@@ -39,5 +45,4 @@
     - title: Freelance 
       year: 2016-2018
       description:
-
 
