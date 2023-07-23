@@ -20,15 +20,16 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Sr. System Software Engineer
+   - title: Manager, System Software - AI & Robotics
       institution: NVIDIA Corporation
-      year: 2021 - present
+      year: 2023 - present
       description:
         
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: Sr. System Software Engineer
+      institution: NVIDIA Corporation
+      year: 2021 - 2023
+      description:
+
     - title: System Software Engineer
       institution: NVIDIA Corporation
       year: 2020-2021
