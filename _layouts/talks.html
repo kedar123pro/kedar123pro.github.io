@@ -6,7 +6,7 @@ layout: default
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-           Select Talks
+           Talks and presentations
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
@@ -19,14 +19,23 @@ layout: default
           </div>
 
           <!-- Talks -->
-          <p>AI Decoded - Build Your Own Chatbot Companion With RTX PCs and Workstations, NVIDIA GPU Technology Conference (GTC), San Jose CA, USA, March 2024.</p>
-          <p>Accelerating Development on Windows PCs with RTX AI, Microsoft Build, Seattle WA, USA, May 2024.</p>
-          <p>Virtual Human Design: Exploring the Opportunities and Challenges of GenAI, ACM SIGGRAPH 2024, Denver CO, USA, July 2024.</p>
+          <ul>
+            <li>
+              <strong>AI Decoded - Build Your Own Chatbot Companion With RTX PCs and Workstations</strong><br>
+              <em>NVIDIA GPU Technology Conference (GTC)</em>, San Jose, CA, USA, March 2024.
+            </li>
+            <li>
+              <strong><a href="https://build.microsoft.com/en-US/sessions/689907b5-1bb8-4e4a-921f-2808a4dc823a">Accelerating Development on Windows PCs with RTX AI</a></strong><br>
+              <em>Microsoft Build</em>, Seattle, WA, USA, May 2024.
+            </li>
+            <li>
+              <strong><a href="https://s2024.conference-program.org/presentation/?id=gensubcur_103&sess=sess339">Virtual Human Design: Exploring the Opportunities and Challenges of GenAI</a</strong><br>
+              <em>ACM SIGGRAPH 2024</em>, Denver, CO, USA, July 2024.
+            </li>
+          </ul>
           
-          {% if page.talks and site.talks.enabled -%}
-            <h2><a href="{{ '/talks/' | relative_url }}" style="color: inherit;">talks</a></h2>
-            {%- include talks.html limit=true %}
-          {%- endif %}
+          
+
 
           
 

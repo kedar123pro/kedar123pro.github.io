@@ -46,3 +46,17 @@
       year: 2016-2018
       description:
 
+- title: Awards and Honors
+  type: time_table
+  contents:
+    - title: <a href="https://mlds.analyticsindiamag.com/40-under-40-data-scientists-awards/" rel="external nofollow noopener">40 Under 40 Data Scientists Awards</a>
+      institution: Analytics India Magazine
+      year: 2024
+
+    - title: NYU Provost's Global Research Initiatives
+      institution: New York University
+      year: 2020
+
+    - title: NYU Graduate School of Engineering Scholarship
+      institution: New York University
+      year: 2018
