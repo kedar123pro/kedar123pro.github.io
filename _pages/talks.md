@@ -1,7 +1,7 @@
 ---
 layout: talks
 title: talks
-permalink: /
+permalink: /talks
 subtitle: 
 
 
