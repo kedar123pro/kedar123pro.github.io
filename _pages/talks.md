@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: talks
 title: talks
 permalink: /
 subtitle: 
